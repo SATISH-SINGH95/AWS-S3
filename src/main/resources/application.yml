@@ -1,0 +1,11 @@
+aws:
+  accessKey: AKIAIOSFODNN7EXAMPLE
+  secretKey: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+  region: us-east-1
+  bucket:
+    name: my-bucket
+
+spring:
+  port: 9091
+
+#  NOTE : accessKey, secretKey, region, bucketName is not a valid data. Use your original one.
